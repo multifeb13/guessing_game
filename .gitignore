@@ -1,5 +1,4 @@
 /target
 /.history
 **/*.rs.bk
-**/*.lock
 **/*.code-workspace
